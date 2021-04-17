@@ -1,4 +1,4 @@
-% %% This script computes the FRC of two images
+% %% This script computes the FRC of sets of two images
 % 
 clear
 clc
